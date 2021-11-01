@@ -14,10 +14,10 @@ This project uses Jupyter Notebooks to run analysis on potential arbitrage oppor
 
 These libraries can be installed using the following the code:
 
-'''python
+```python
     import pandas as pd
     from pathlib import Path
-'''
+```
 
 
 ## Usage
